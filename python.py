@@ -4,3 +4,5 @@ print("teste")
 #testando
 
 #funcionalidade
+
+#funcao
